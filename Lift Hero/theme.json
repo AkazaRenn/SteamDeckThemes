@@ -1,0 +1,50 @@
+{
+  "name": "Lift Hero",
+  "author": "Akaza Renn",
+  "manifest_version": 5,
+  "version": "v1.0",
+  "inject": {
+    "shared.css": ["SP"]
+  },
+  "patches": {
+    "Lift Hero": {
+      "default": "0",
+      "type": "slider",
+      "values": {
+        "0": {
+          "--LIFT-HERO-px": ["0", "SP"]
+        },
+        "1": {
+          "--LIFT-HERO-px": ["10px", "SP"]
+        },
+        "2": {
+          "--LIFT-HERO-px": ["20px", "SP"]
+        },
+        "3": {
+          "--LIFT-HERO-px": ["30px", "SP"]
+        },
+        "4": {
+          "--LIFT-HERO-px": ["40px", "SP"]
+        },
+        "5": {
+          "--LIFT-HERO-px": ["50px", "SP"]
+        },
+        "6": {
+          "--LIFT-HERO-px": ["60px", "SP"]
+        },
+        "7": {
+          "--LIFT-HERO-px": ["70px", "SP"]
+        },
+        "8": {
+          "--LIFT-HERO-px": ["80px", "SP"]
+        },
+        "9": {
+          "--LIFT-HERO-px": ["90px", "SP"]
+        },
+        "10": {
+          "--LIFT-HERO-px": ["100px", "SP"]
+        }
+      }
+    }
+  }
+}
