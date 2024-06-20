@@ -1,7 +1,7 @@
 .RecentGamesBackgroundImages .RecentGamesBackground {
-    animation: none !important;
+    animation: none;
 }
 
 .RecentGamesBackgroundContainer, .RecentGamesBackgroundImages {
-    bottom: var(--NHM-lift-hero-px) !important;
+    bottom: var(--NHM-lift-hero-px);
 }
