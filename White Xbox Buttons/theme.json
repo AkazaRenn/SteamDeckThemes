@@ -2,7 +2,7 @@
   "name": "White Xbox Buttons",
   "author": "Akaza Renn",
   "target": "Other",
-  "version": "v1.1",
+  "version": "v1.2",
   "manifest_version": 5,
   "patches": {
     "Replace brand icons by Steam": {
