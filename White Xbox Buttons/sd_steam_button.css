@@ -1,6 +1,7 @@
 img[src="/steaminputglyphs/xbox_button_logo.svg"],
 img[src="/steaminputglyphs/ps4_button_logo.svg"],
-img[src="/steaminputglyphs/switchpro_button_home.svg"] {
+img[src="/steaminputglyphs/switchpro_button_home.svg"],
+img[src="/steaminputglyphs/8bitdo_button_home.svg"] {
     content: url("/steaminputglyphs/sd_button_steam.svg");
     width: 61.1px;
     height: auto;
